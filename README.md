@@ -1,2 +1,2 @@
 # jsLEARNING
-for learning js
+for best js project
