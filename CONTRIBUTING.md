@@ -14,6 +14,7 @@ Click the **Fork** button in the top-right corner of this repository to create a
 git clone https://github.com/your-username/project-name.git
 cd project-name
 git checkout -b my-feature-branch
+```
 ## Create a Pull Request
 Go to the original repository, select the Pull Requests tab, and click New Pull Request.
 
