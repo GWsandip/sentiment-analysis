@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to [Sentiment-analysis]
 
 First off, thanks for taking the time to contribute! 🎉
 
